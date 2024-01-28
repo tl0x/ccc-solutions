@@ -1,3 +1,5 @@
+// code is not mine.
+
 #include <iostream>
 using namespace std;
 

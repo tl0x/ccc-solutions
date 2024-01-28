@@ -1,3 +1,6 @@
+// code by taylor
+// simple math. make sure to use iomanip to avoid AC.
+
 #include <iostream>
 #include <utility>
 #include <algorithm>
@@ -13,7 +16,7 @@ int main(){
     int n;
 	cin >> n;
 	for(int i = 0; i < n; i++) {
-        cin>>A[i].first>>A[i].second;
+        cin >> A[i].first >> A[i].second;
     }
 
 	sort(A, A+n);

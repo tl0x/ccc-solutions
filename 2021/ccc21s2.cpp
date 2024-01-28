@@ -1,3 +1,7 @@
+// code by taylor
+// use two frequency arrays. one for the rows and one for the cols. note that this approach is taken to avoid the large amount of accessing and modifying
+// that would follow using a 2d array or vector.
+
 #include <iostream>
 #include <set>
 #include <vector>

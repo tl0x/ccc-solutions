@@ -1,3 +1,7 @@
+// code by taylor
+// time complexity: O(n)
+// sort the tide heights then find the midpoint. then alternate printing tideHeights[middle-i] and tideHeights[middle+i]
+
 #include <iostream>
 #include <vector>
 #include <iostream>

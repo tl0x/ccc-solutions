@@ -1,3 +1,7 @@
+// code by taylor
+// time complexity : O(N)
+// go by a row by row basis. first add all the individual edges and then subtract all the bordering edges.
+
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,3 +1,8 @@
+// code by taylor
+// tenery search algorithm. https://cp-algorithms.com/num_methods/ternary_search.html
+// tenery search is useful to find the minimum or maximum of a function that has a parabolic-like shape 
+// (but doesn't have to be continuous)
+
 #include <iostream>
 #include <set>
 #include <vector>

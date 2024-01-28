@@ -1,3 +1,7 @@
+// code by taylor
+// solves the coin change problem with dynamic programming.
+// problem: Given a total sum and values of different kinds of coins. What is the lowest amount of coins that can make the total sum?
+
 #include <iostream>
 #include <set>
 #include <vector>

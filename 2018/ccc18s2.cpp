@@ -1,4 +1,11 @@
+// code by taylor
+// is this incomplete? i forgot
+
 #include <iostream>
+#include <vector>
+#include <algorithm>
+#include <cmath>
+#include <iomanip>
 
 using namespace std;
 

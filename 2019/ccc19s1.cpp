@@ -1,3 +1,6 @@
+// code by taylor
+// notice that doing an permutation 2 times simply cancels the previous operation out. simply calculate the parity of the 2 operations.
+
 #include <iostream>
 #include <vector>
 

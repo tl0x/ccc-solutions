@@ -1,3 +1,7 @@
+// code by taylor
+// time complexity: O(t * sqrt(n))
+// calculate for the prime*2. check if both i and (prime*b)-i are both prime. if they are, print them.
+
 #include <iostream>
 #include <vector>
 #include <cmath>

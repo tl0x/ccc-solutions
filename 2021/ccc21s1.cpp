@@ -1,3 +1,7 @@
+// code by taylor
+// pretty simple. heights and widths are already given in order so all you have to order the vectors correctly.
+// use cout << fixed << area; to avoid printing in scientific notation (this results in WA)
+
 #include <iostream>
 #include <vector>
 using namespace std;
