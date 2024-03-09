@@ -1,3 +1,6 @@
+// code by taylor
+// simple list traversal problem, diabolically easy for an s1.
+
 #include <iostream>
 #include <set>
 #include <vector>
