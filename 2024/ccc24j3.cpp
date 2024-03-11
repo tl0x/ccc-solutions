@@ -1,4 +1,5 @@
 // code by taylor
+// time complexity: O(n)
 // determine the target score and then count the amount that matches
 
 #include <iostream>

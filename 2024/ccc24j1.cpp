@@ -1,4 +1,5 @@
 // code by taylor.
+// time complexity: O(1)
 // addition problem.
 
 #include <iostream>

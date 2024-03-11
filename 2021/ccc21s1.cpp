@@ -1,6 +1,7 @@
 // code by taylor
-// pretty simple. heights and widths are already given in order so all you have to order the vectors correctly.
-// use cout << fixed << area; to avoid printing in scientific notation (this results in WA)
+// time complexity O(n)
+// pretty simple. heights and widths are already given in order so all you have to order the lists correctly.
+// use cout << fixed << area; to avoid printing in scientific notation (lest it results in WA)
 
 #include <iostream>
 #include <vector>

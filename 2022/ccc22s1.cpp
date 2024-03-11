@@ -1,5 +1,5 @@
 // code by taylor
-// time complexity: O(N/4)
+// time complexity: O(n)
 // check if they are a multiple of 4 or 5 then start a for loop. Continously subtract 4 from N and check if it is divisble by 5 each time. This represents
 // a unique 4 and 5 combination.
 

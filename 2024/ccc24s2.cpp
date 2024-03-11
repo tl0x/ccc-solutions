@@ -1,4 +1,5 @@
 // code by taylor
+// time complexity: O(T * N)?
 // use a map to quickly assign each character as heavy or light. the way i checked if it was alternating is probably not optimal.
 
 #include <iostream>

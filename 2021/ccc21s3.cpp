@@ -1,7 +1,8 @@
 // code by taylor
+// time complexity: unsure
 // tenery search algorithm. https://cp-algorithms.com/num_methods/ternary_search.html
-// tenery search is useful to find the minimum or maximum of a function that has a parabolic-like shape 
-// (but doesn't have to be continuous)
+// tenery search is useful to find the minimum or maximum of a function that has a parabolic-like shape. If you think about the result of the timefunction, it will resemble a parabola if plotted out.
+// note that tenery search can solve problems with parabolic-like shape, so it does not have to be continous
 
 #include <iostream>
 #include <set>

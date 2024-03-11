@@ -1,3 +1,7 @@
+// code by taylor
+// Time complexity : unsure. probably O(1)
+// it was more convenient to convert the year to a string, but you can do it using actual math
+
 #include <iostream>
 #include <iomanip>
 #include <algorithm>

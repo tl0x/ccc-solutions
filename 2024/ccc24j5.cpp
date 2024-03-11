@@ -1,4 +1,5 @@
 // code by taylor
+// time complexity : O(R * C)
 // either use dfs or bfs to traverse the grid. i chose bfs for practice.
 // flood fill type question without much tricks
 

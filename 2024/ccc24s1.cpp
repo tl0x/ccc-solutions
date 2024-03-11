@@ -1,4 +1,5 @@
 // code by taylor
+// time complexity : O(N);
 // simple list traversal problem, diabolically easy for an s1.
 
 #include <iostream>

@@ -1,4 +1,5 @@
 // code by someone else and im trying to figure this out lol
+// time complexity O(T^3)
 // ignore the comments probably inaccurate
 
 #include <iostream>

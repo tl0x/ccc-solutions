@@ -1,4 +1,5 @@
 // code by taylor
+// time complexity: O(n);
 // simple math. make sure to use iomanip to avoid AC.
 
 #include <iostream>

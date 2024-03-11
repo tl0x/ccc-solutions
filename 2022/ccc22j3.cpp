@@ -1,4 +1,5 @@
 // code by taylor
+// Time complexity O(L), where L is length of the input.
 // easy string traversal problem
 
 #include <iostream>

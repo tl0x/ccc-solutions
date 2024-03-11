@@ -1,4 +1,5 @@
 // code by taylor
+// time complexity O(L), where L is the length of the target string.
 // string traversal. Use the fact that silly key never gets hit after the quiet key. This means that we can simply traverse the two strings in a linear fashion.
 // think about it; when travelling the two strings. they can either be identical, mismatched or 
 

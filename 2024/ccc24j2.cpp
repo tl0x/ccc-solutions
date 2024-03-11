@@ -1,4 +1,5 @@
 // code by taylor
+// time complexity: O(n)
 // easy points. just read input from while loop until you find a yobi to stop at.
 
 #include <iostream>
