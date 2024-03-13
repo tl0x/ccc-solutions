@@ -11,3 +11,8 @@ Reasons I decided to upload my solutions
 - I was sick of solutions that were unreadable
 - To keep a record for myself
 
+Goals write now:
+- [ ] Finish all CCC Junior questions 2016-2024
+- [ ] Finish all CCC Senior S1-S3
+- [ ] Solve some classic problems (Shortest Source Weighted Path etc)
+
