@@ -1,3 +1,6 @@
+// code by taylor
+// string manipulation. easier in python.
+
 #include <iostream>
 #include <set>
 #include <vector>
@@ -5,8 +8,6 @@
 #include <iomanip>
 #include <algorithm>
 #include <unordered_map>
-#include <cstring>
-#include <queue>
 
 using namespace std;
 
@@ -22,4 +23,15 @@ using vi = std::vector<int>;
 
 int main() {
     optimize();
+
+    int n; cin >> n;
+    for (int _ = 0; _<n; _++) {
+        int factor; char c; cin >> factor >> c;
+
+        string temp = "";
+        for (int i = 0; i < factor; i++) {
+            temp += c;
+        }
+        cout << temp << endl;
+    }
 }

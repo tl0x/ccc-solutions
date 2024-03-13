@@ -6,7 +6,6 @@
 #include <algorithm>
 #include <unordered_map>
 #include <cstring>
-#include <queue>
 
 using namespace std;
 
@@ -22,4 +21,15 @@ using vi = std::vector<int>;
 
 int main() {
     optimize();
+    int n; cin >> n;
+    int x = 0;
+
+    string lot1, lot2; cin >> lot1 >> lot2;
+    for (int i = 0; i < n; i++) {
+        if (lot1[i] == 'C' && lot2[i] == 'C') {
+            x++;
+        }
+    }
+
+    cout << x << endl;
 }

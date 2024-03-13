@@ -1,6 +1,7 @@
 // code by taylor
 // time complexity: O(n)
-// notice that doing an permutation 2 times simply cancels the previous operation out. simply calculate the parity of the 2 operations.
+// also known as ccc19j4.cpp :)
+// notice that doing an permutation 2 times simply cancels the previous operation out (commutative). simply calculate the parity of the 2 operations.
 
 #include <iostream>
 #include <vector>

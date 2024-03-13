@@ -1,3 +1,7 @@
+// code by taylor
+// simple if else logic question.
+// i swear i've done this question like 5 times by now
+
 #include <iostream>
 #include <set>
 #include <vector>
@@ -5,8 +9,6 @@
 #include <iomanip>
 #include <algorithm>
 #include <unordered_map>
-#include <cstring>
-#include <queue>
 
 using namespace std;
 
@@ -22,4 +24,11 @@ using vi = std::vector<int>;
 
 int main() {
     optimize();
+
+    int n1, n2, n3, n4; cin >> n1 >> n2 >> n3 >> n4;
+    if ((n1 == 8 || n1 == 9) && (n2 == n3) && (n4 == 8 || n4 == 9)) {
+        cout << "ignore" << endl;
+        return 0;
+    }
+    cout << "answer" << endl;
 }

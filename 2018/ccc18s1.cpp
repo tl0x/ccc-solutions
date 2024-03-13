@@ -1,5 +1,6 @@
 // code by taylor
 // time complexity O(n)
+// also known as ccc18j4.cpp :)
 // the size of each neighbourhood can be calculated by averages the distances between the villages beside it.
 // example: 2 5 9. The neighborhood of 5 is ((5-2)/2) + ((9-5)/2) = 1.5 + 2 = 3 units large
 // go through each neighbourhood and find the minimum.
