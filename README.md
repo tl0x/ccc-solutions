@@ -11,8 +11,25 @@ Reasons I decided to upload my solutions
 - I was sick of solutions that were unreadable
 - To keep a record for myself
 
-Goals right now:
-- [ ] Finish all CCC Junior questions 2016-2024
-- [ ] Finish all CCC Senior S1-S3
-- [ ] Solve some classic problems (Shortest Source Weighted Path etc)
+Finished questions right now:
+- CCC 2024 Junior 5/5
+- CCC 2024 Senior 2/5
+- CCC 2023 Junior 5/5
+- CCC 2023 Senior 1/5
+- CCC 2022 Junior 5/5
+- CCC 2022 Senior 1/5
+- CCC 2021 Junior 5/5
+- CCC 2021 Senior 3/5
+- CCC 2020 Junior 5/5
+- CCC 2020 Senior 1/5
+- CCC 2019 Junior 4/5
+- CCC 2019 Senior 2/5
+- CCC 2018 Junior 5/5
+- CCC 2018 Senior 1/5
+- CCC 2017 Junior 5/5
+- CCC 2017 Senior 3/5
+- CCC 2016 Junior 4/5
+- CCC 2016 Senior 0/5
+ 
+
 

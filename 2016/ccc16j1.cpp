@@ -19,8 +19,27 @@ using vi = std::vector<int>;
 #define optimize() ios_base::sync_with_stdio(false);cin.tie(NULL)
 #define mod 1000000007;
 #define sortcut(x) x.begin(), x.end();
-#define printl(x, size) for(int i=0; i<size; i++) cout << x[i] << endl;
 
 int main() {
     optimize();
+    int count = 0;
+    for (int i = 0; i < 6; i++) {
+        char c; cin >> c;
+        if (c == 'W') {
+            count++;
+        }
+    }
+
+    if (count == 1 || count == 2) {
+        cout << 3;
+    }
+    else if (count == 3 || count == 4) {
+        cout << 2;
+    }
+    else if (count == 5 || count == 6) {
+        cout << 1;
+    }
+    else {
+        cout << -1;
+    }
 }
