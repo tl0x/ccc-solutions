@@ -7,7 +7,6 @@
 #include <unordered_map>
 #include <cstring>
 #include <queue>
-#include <cmath>
 
 using namespace std;
 
@@ -19,9 +18,19 @@ using vi = std::vector<int>;
 
 #define optimize() ios_base::sync_with_stdio(false);cin.tie(NULL)
 #define mod 1000000007;
-#define sortcut(x) x.begin(), x.end()
+#define sortcut(x) x.begin(), x.end();
 #define printl(x, size) for(int i=0; i<size; i++) cout << x[i] << endl;
 
 int main() {
     optimize();
+    int n; cin >> n;
+    int nums[n];
+    for (int i = 0; i < n; i++) {
+        cin >> nums[i];
+    }
+
+    sort(nums, nums + n);
+    for (int i = 0; i < n; i++) {
+        cout << nums[i] << endl;
+    }
 }
